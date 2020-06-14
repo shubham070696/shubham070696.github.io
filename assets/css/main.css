@@ -2649,7 +2649,7 @@ input, select, textarea {
 					line-height: 44px;
 					border-top: solid 1px rgba(255, 255, 255, 0.05);
 					padding: 0 1em 0 1em;
-					font-style: italic;
+					font-style: normal;
 				}
 
 					#navPanel .link:first-child {
